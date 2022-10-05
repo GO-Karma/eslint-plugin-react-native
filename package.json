@@ -1,7 +1,7 @@
 {
   "name": "@gokarma/eslint-plugin-react-native",
-  "version": "4.0.0",
-  "author": "Tom Hastjarjanto <tom@intellicode.nl>",
+  "version": "1.0.0",
+  "author": "AuroPick <aykutsakibusiness@gmail.com>",
   "description": "React Native specific linting rules for ESLint",
   "main": "index.js",
   "scripts": {
@@ -18,10 +18,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/intellicode/eslint-plugin-react-native"
+    "url": "https://github.com/GO-Karma/eslint-plugin-react-native"
   },
-  "homepage": "https://github.com/intellicode/eslint-plugin-react-native",
-  "bugs": "https://github.com/intellicode/eslint-plugin-react-native/issues",
+  "homepage": "https://github.com/GO-Karma/eslint-plugin-react-native",
+  "bugs": "https://github.com/GO-Karma/eslint-plugin-react-native/issues",
   "devDependencies": {
     "@babel/eslint-parser": "^7.16.3",
     "@typescript-eslint/parser": "^5.3.1",
