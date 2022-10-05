@@ -1,6 +1,0 @@
-package-lock.json
-azure-pipelines.yml
-.gitignore
-.eslintrc
-tests
-docs
